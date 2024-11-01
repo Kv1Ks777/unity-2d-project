@@ -1,3 +1,4 @@
+git config --global core.autocrlf true
 * text=auto
 * text eol=lf
 *.unity text eol=lf
